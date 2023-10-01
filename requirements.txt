@@ -1,2 +1,3 @@
 Pillow
 pyshp>=2
+requests
