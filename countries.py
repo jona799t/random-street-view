@@ -17,6 +17,7 @@ countries = [
     # Central America
     "BMU",
     "CRI",
+    "PAN",
     # 'CUW',
     "DOM",
     "GTM",
